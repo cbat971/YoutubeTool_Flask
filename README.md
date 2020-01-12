@@ -185,7 +185,7 @@ $ python manage.py add_fake_data
 ## Running the app
 
 ```
-$ source env/bin/activate
+$ venv\Scripts\activate
 $ honcho start -e config.env -f Local
 ```
 
